@@ -12,6 +12,6 @@ int main(){
 
     luas = p * l;
 
-   out << "Hasilnya : " << luas; c
+    cout << "Hasilnya : " << luas;
 }
    
